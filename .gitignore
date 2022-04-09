@@ -1,0 +1,5 @@
+*.egg-info
+.bzr/
+.pybuild/
+__pycache__
+build
